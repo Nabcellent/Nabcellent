@@ -5,6 +5,6 @@
 - 📫 How to reach me Phone: +254-110039317, Email: nabcellent.dev@gmail.com...
 
 <!---
-Lil-Nabz/Lil-Nabz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Nabcellent/Nabcellent is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
