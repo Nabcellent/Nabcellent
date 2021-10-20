@@ -4,9 +4,13 @@
 	<a href="https://app.daily.dev/lil_nabz"><img align="left" src="https://api.daily.dev/devcards/1722ea200d35485c8ad25b5c73ca23d7.png?r=5x2" width="400" alt="Lil Nabz's Dev Card"/></a>
 
 ### GitHub stats
-<a href="https://github.com/nabcellent/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=filiptronicek&show_icons=true&line_height=27&include_all_commits=true" alt="My github stats" />
-</a>  
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nabcellent&show_icons=true&theme=radical) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nabcellent&langs_count=5&layout=compact&theme=shades-of-purple)](https://github.com/anuraghazra/github-readme-stats)
+	[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nabcellent&repo=nabcellent&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+
+	
+	
 </div>
 <br/>
 <hr>
@@ -17,6 +21,7 @@
 <li>    💞️ I’m looking to collaborate on an ecommerce website as well as an ERP...</li>
 <li>   📫 How to reach me Phone: +254-110039317, Email: nabcellent.dev@gmail.com...</li>
 <ul/>
+
 
 
 
