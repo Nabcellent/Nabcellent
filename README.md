@@ -1,7 +1,7 @@
 ## Hello World! 🌍
 
 <div align="right">
-	<a href="https://app.daily.dev/lil_nabz"><img align="left" src="https://api.daily.dev/devcards/1722ea200d35485c8ad25b5c73ca23d7.png?r=5x2" width="300" alt="Lil Nabz's Dev Card"/></a>
+	<a href="https://app.daily.dev/lil_nabz"><img align="left" src="https://github.com/Nabcellent/Nabcellent/blob/main/devcard.svg" width="300" alt="Lil Nabz's Dev Card"/></a>
 
 ### GitHub stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nabcellent&langs_count=5&layout=compact&theme=shades-of-purple)](https://github.com/anuraghazra/github-readme-stats)
