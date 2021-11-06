@@ -16,7 +16,7 @@ https://githubmemory.com/@Nabcellent
 
 <ul>
 	<li>   👋 Hi, I’m @Nabcellent, though you can call me Lil Nabz or Re.d_beard.😎</li>
-	<li>    👀 I’m an upcoming web artisan with Laravel as my main development tool...</li>
+	<li>    👀 I’m a web star with Laravel as my main development tool...</li>
 	<li>    🌱 I’m currently learning python and react...</li>
 	<li>    💞️ I’m looking to collaborate on an ecommerce website as well as an ERP...</li>
 	<li>   📫 How to reach me Phone: +254-110039317, Email: nabcellent.dev@gmail.com...</li>
