@@ -29,11 +29,10 @@ class About extends Me {
 
     public function getMainLanguages() {
         return [
-            Php::class,
-            Javascript::class,
+            PHP::class,
+            JavaScript::class,
             Laravel::class,
             React::class,
-            Python::class,
             Bootstrap::class,
             GCP::class,
         ];
