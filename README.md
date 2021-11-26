@@ -86,11 +86,16 @@ class About extends Me {
 </p><br>
 
 <!---
-//  DONT DELETE THE IMAGE BELOW FOR FUTURE USE
+//  DONT DELETE THESE FOR FUTURE USE
 
 <p align="center">
   <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" />
 </p>
+
+Awesome Profile templates - https://github.com/kautukkundan/Awesome-Profile-README-templates
+
+
+
 Nabcellent/Nabcellent is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
