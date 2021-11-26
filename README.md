@@ -69,7 +69,7 @@ class About extends Me {
 </p><br>
 
 <p align="center">
-<a href="https://github.com/priyanshumay"><img src="https://img.shields.io/badge/webstorm-green.svg?style=for-the-badge&logo=phpstorm&labelColor=ffffff&logoColor=green" alt="vscode"></a>
+<a href="https://github.com/priyanshumay"><img src="https://img.shields.io/badge/webstorm-green.svg?style=for-the-badge&logo=webstorm&labelColor=ffffff&logoColor=green" alt="vscode"></a>
 <a href="https://github.com/priyanshumay"><img src="https://img.shields.io/badge/phpstorm-C470F1.svg?style=for-the-badge&logo=phpstorm&labelColor=ffffff&logoColor=purple" alt="vscode"></a>
 <a href="https://github.com/priyanshumay"><img src="https://img.shields.io/badge/vscode-blue.svg?style=for-the-badge&logo=visual-studio-code&labelColor=ffffff&logoColor=blue" alt="vscode"></a>
 </p><br>
@@ -86,6 +86,11 @@ class About extends Me {
 </p><br>
 
 <!---
+//  DONT DELETE THE IMAGE BELOW FOR FUTURE USE
+
+<p align="center">
+  <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" />
+</p>
 Nabcellent/Nabcellent is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
