@@ -1,6 +1,10 @@
 ## Hello World! 🌍
 
-<img src="https://komarev.com/ghpvc/?username=nabcellent" alt="Nabcellent" />
+<img align="right" src="https://komarev.com/ghpvc/?username=nabcellent" alt="Nabcellent" />
+
+[![Twitter](https://img.shields.io/badge/-Twitter-222222?style=flat-square&logo=twitter&link=https://twitter.com/ScientificGhosh/)](https://twitter.com/Miguel27650847/)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-222222?style=flat-square&logo=Linkedin&link=https://www.linkedin.com/in/sudiptoghosh99/)](https://www.linkedin.com/in/michael-nabangi-05602b203/)
+[![Instagram](https://img.shields.io/badge/-Instagram-222222?style=flat-square&logo=instagram&link=https://www.linkedin.com/in/sudiptoghosh99/)](https://www.instagram.com/re.d_beard/)
 
 <div align="left">
 	<a href="https://app.daily.dev/lil_nabz"><img align="left" src="https://github.com/Nabcellent/Nabcellent/blob/main/devcard.svg" width="300" alt="Lil Nabz's Dev Card"/></a>
@@ -48,14 +52,38 @@ class About extends Me {
 
 <h4 align="center">Profile stats :musical_keyboard:</h4>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=nabcellent&show_icons=true&theme=radical" alt="Nabcellent :: Profile Stats" /></p>
-<p align="center"><img src="https://thumbs.gfycat.com/GoodnaturedFondGaur-size_restricted.gif" alt="Synthwave" height="300" width="500"></p>
-
-### Tools 🛠️
-
-| [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="mysql" width="24">](https://www.mysql.com/) | [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="Git" width="24">](https://git-scm.com/) |  [<img src="https://logonoid.com/images/phpstorm-logo.png" alt="Phpstorm" width="24">](https://www.jetbrains.com/phpstorm/) | [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Visual_Studio_Code_1.18_icon.svg/1200px-Visual_Studio_Code_1.18_icon.svg.png" alt="vscode" width="24">](https://code.visualstudio.com/) | [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ubuntu/ubuntu.png" alt="Ubuntu" width="24">](https://ubuntu.com/) | Many more ...
-|---|---|---|---|---|---|
 
 <hr>
+<p align="center">
+<a href="https://github.com/priyanshumay"><img src="https://img.shields.io/badge/PHP-6566ba.svg?style=for-the-badge&logo=php&logoColor=6566ba&labelColor=ffffff" alt="javascript"></a>
+<a href="https://github.com/priyanshumay"><img src="https://img.shields.io/badge/JS-f5f542.svg?style=for-the-badge&logo=javascript&logoColor=f5f542&labelColor=ffffff" alt="javascript"></a>
+</p><br>
+
+<p align="center">					    
+<a href="https://github.com/priyanshumay"><img src="https://img.shields.io/badge/laravel-F24423.svg?style=for-the-badge&logo=laravel&logoColor=F24423&labelColor=ffffff" alt="react"></a>
+<a href="https://github.com/priyanshumay"><img src="https://img.shields.io/badge/react-61DAFB.svg?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=ffffff" alt="react"></a>
+</p><br>
+
+<p align="center">
+<a href="https://github.com/priyanshumay"><img src="https://img.shields.io/badge/mysql-3aabe8.svg?style=for-the-badge&logo=mysql&logoColor=3aabe8&labelColor=ffffff" alt="mysql"></a>
+</p><br>
+
+<p align="center">
+<a href="https://github.com/priyanshumay"><img src="https://img.shields.io/badge/webstorm-green.svg?style=for-the-badge&logo=phpstorm&labelColor=ffffff&logoColor=green" alt="vscode"></a>
+<a href="https://github.com/priyanshumay"><img src="https://img.shields.io/badge/phpstorm-C470F1.svg?style=for-the-badge&logo=phpstorm&labelColor=ffffff&logoColor=purple" alt="vscode"></a>
+<a href="https://github.com/priyanshumay"><img src="https://img.shields.io/badge/vscode-blue.svg?style=for-the-badge&logo=visual-studio-code&labelColor=ffffff&logoColor=blue" alt="vscode"></a>
+</p><br>
+
+<p align="center">
+<a href="https://github.com/priyanshumay">
+<img src="https://img.shields.io/badge/ubuntu-f7873b.svg?style=for-the-badge&logo=ubuntu&labelColor=ffffff&logoColor=f7873b" alt="ubuntu">
+</a>
+</p><br>
+
+<p align="center">
+<a href="https://github.com/priyanshumay"><img src="https://img.shields.io/badge/git-F05032.svg?style=for-the-badge&logo=git&logoColor=F05032&labelColor=ffffff" alt="git"></a>
+<a href="https://github.com/priyanshumay"><img src="https://img.shields.io/badge/github-black.svg?style=for-the-badge&logo=github&logoColor=black&labelColor=ffffff" alt="github"></a>
+</p><br>
 
 <!---
 Nabcellent/Nabcellent is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
