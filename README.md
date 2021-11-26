@@ -27,7 +27,7 @@ class About extends Me {
         ];
     }
 
-    public function getMainLanguages() {
+    public function getMainLanguagesAndTools() {
         return [
             MySql::class,
             PHP::class,
