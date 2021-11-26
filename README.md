@@ -1,29 +1,61 @@
 ## Hello World! 🌍
 
-<div align="right">
+<img src="https://komarev.com/ghpvc/?username=nabcellent" alt="Nabcellent" />
+
+<div align="left">
 	<a href="https://app.daily.dev/lil_nabz"><img align="left" src="https://github.com/Nabcellent/Nabcellent/blob/main/devcard.svg" width="300" alt="Lil Nabz's Dev Card"/></a>
 
-### GitHub stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nabcellent&langs_count=5&layout=compact&theme=shades-of-purple)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nabcellent&repo=laravel-kyanda&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nabcellent&show_icons=true&theme=radical) 
-	
+```php
+<?php
+
+namespace Nabcellent;
+
+class About extends Me {
+    public function getCurrentWorkplace() {
+        return [
+            'workplace' => [
+                'email' => 'nabcellent.dev@gmail.com',
+                'phone' => '+254 110039317',
+                'company' => 'Self',
+                'position' => 'Full Stack Web Developer',
+            ]
+        ];
+    }
+
+    public function getMainLanguages() {
+        return [
+            Php::class,
+            Javascript::class,
+            Laravel::class,
+            React::class,
+            Python::class,
+            Bootstrap::class,
+            GCP::class,
+        ];
+    }
+}
+```
+
 </div>
 
-<br/>
-https://githubmemory.com/@Nabcellent
 <hr>
 
-<ul>
-	<li>   👋 Hi, I’m @Nabcellent, though you can call me Lil Nabz or Re.d_beard.😎</li>
-	<li>    👀 I’m a web star with Laravel as my main development tool...</li>
-	<li>    🌱 I’m currently learning python and react...</li>
-	<li>    💞️ I’m looking to collaborate on an ecommerce website as well as an ERP...</li>
-	<li>   📫 How to reach me Phone: +254-110039317, Email: nabcellent.dev@gmail.com...</li>
-<ul/>
+<h4 align="center">Top languages :fire:</h4>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nabcellent&langs_count=7&layout=compact&theme=shades-of-purple" alt="Nabcellent :: Top Langs" /></p>
 
+<h4 align="center">Trending Repo 📈:</h4>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/pin/?username=nabcellent&repo=laravel-kyanda&theme=radical" alt="Nabcellent :: Trending Repo" /></p>
 
+<h4 align="center">Profile stats :musical_keyboard:</h4>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=nabcellent&show_icons=true&theme=radical" alt="Nabcellent :: Profile Stats" /></p>
+<p align="center"><img src="https://thumbs.gfycat.com/GoodnaturedFondGaur-size_restricted.gif" alt="Synthwave" height="300" width="500"></p>
 
+### Tools 🛠️
+
+| [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="mysql" width="24">](https://www.mysql.com/) | [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="Git" width="24">](https://git-scm.com/) |  [<img src="https://logonoid.com/images/phpstorm-logo.png" alt="Phpstorm" width="24">](https://www.jetbrains.com/phpstorm/) | [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Visual_Studio_Code_1.18_icon.svg/1200px-Visual_Studio_Code_1.18_icon.svg.png" alt="vscode" width="24">](https://code.visualstudio.com/) | [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ubuntu/ubuntu.png" alt="Ubuntu" width="24">](https://ubuntu.com/) | Many more ...
+|---|---|---|---|---|---|
+
+<hr>
 
 <!---
 Nabcellent/Nabcellent is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
