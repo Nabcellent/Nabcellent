@@ -18,6 +18,7 @@ class About extends Me {
     public function getCurrentWorkplace() {
         return [
             'workplace' => [
+                'name' => 'Lil Nabz ~ Web Star😎',
                 'email' => 'nabcellent.dev@gmail.com',
                 'phone' => '+254 110039317',
                 'company' => 'Self',
