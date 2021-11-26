@@ -29,12 +29,14 @@ class About extends Me {
 
     public function getMainLanguages() {
         return [
+            MySql::class,
             PHP::class,
-            JavaScript::class,
             Laravel::class,
+            JavaScript::class,
             React::class,
+            Node::class,
+            MUI::class,
             Bootstrap::class,
-            GCP::class,
         ];
     }
 }
