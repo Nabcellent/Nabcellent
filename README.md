@@ -1,5 +1,5 @@
-## Hello World! 🌍 Call Me Re.d😎
 <img src="https://github.com/Nabcellent/Nabcellent/blob/main/greetings.svg"/>
+<hr>
 
 <img align="right" src="https://komarev.com/ghpvc/?username=nabcellent" alt="Nabcellent" />
 
