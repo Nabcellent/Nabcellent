@@ -15,14 +15,15 @@
 namespace Nabcellent;
 
 class About extends Me {
-    public function getCurrentWorkplace() {
+    public function getToKnowMe() {
         return [
-            'workplace' => [
+            'personal_info' => [
                 'name' => 'Lil Nabz ~ Web Star😎',
                 'email' => 'nabcellent.dev@gmail.com',
                 'phone' => '+254 110039317',
                 'company' => 'Self',
                 'position' => 'Full Stack Web Developer',
+                'portfolio' => `https://nabcellent.herokuapp.com/`,
             ]
         ];
     }
