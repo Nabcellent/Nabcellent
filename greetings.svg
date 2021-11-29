@@ -14,7 +14,7 @@
                 height: 300px;
                 /* background: linear-gradient(-45deg, #fc5c7d, #6a82fb, #05dfd7); */
                 background: #333;
-                background-size: 600% 300%;
+                background-size: 600% 400%;
                 border-radius: 10px;
                 /* color: white; */
                 text-align: center;
