@@ -16,10 +16,10 @@
 namespace Nabcellent;
 
 class About extends Me {
-    public function getToKnowMe() {
+    public function getPersonal() {
         return [
             'personal_info' => [
-                'name' => 'Lil Nabz ~ Web Star😎',
+                'name' => 'Michael Nabangi',
                 'email' => 'nabcellent.dev@gmail.com',
                 'phone' => '+254 110039317',
                 'company' => 'Self',
