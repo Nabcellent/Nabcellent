@@ -58,9 +58,10 @@ class About extends Me {
 
 <hr>
 <p align="center">
-<a href="https://www.php.net/"><img src="https://img.shields.io/badge/PHP-6566ba.svg?style=for-the-badge&logo=php&logoColor=6566ba&labelColor=0D1117" alt="javascript"></a>
+<a href="https://www.php.net/"><img src="https://img.shields.io/badge/PHP-6566ba.svg?style=for-the-badge&logo=php&logoColor=6566ba&labelColor=0D1117" alt="php"></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://img.shields.io/badge/JS-f5f542.svg?style=for-the-badge&logo=javascript&logoColor=f5f542&labelColor=0D1117" alt="javascript"></a>
-<a href="https://laravel.com/"><img src="https://img.shields.io/badge/laravel-F24423.svg?style=for-the-badge&logo=laravel&logoColor=F24423&labelColor=0D1117" alt="react"></a>
+<a href="https://www.typescriptlang.org/"><img src="https://img.shields.io/badge/TS-3178C6.svg?style=for-the-badge&logo=typescript&logoColor=3178C6&labelColor=0D1117" alt="typescript"></a>
+<a href="https://laravel.com/"><img src="https://img.shields.io/badge/laravel-F24423.svg?style=for-the-badge&logo=laravel&logoColor=F24423&labelColor=0D1117" alt="laravel"></a>
 <a href="https://reactjs.org/"><img src="https://img.shields.io/badge/react-61DAFB.svg?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=0D1117" alt="react"></a>
 </p><br>
 
@@ -76,9 +77,8 @@ class About extends Me {
 </p><br>
 
 <p align="center">
-<a href="https://ubuntu.com/">
-<img src="https://img.shields.io/badge/ubuntu-f7873b.svg?style=for-the-badge&logo=ubuntu&labelColor=0D1117&logoColor=f7873b" alt="ubuntu">
-</a>
+<a href="https://ubuntu.com/"><img src="https://img.shields.io/badge/ubuntu-f7873b.svg?style=for-the-badge&logo=ubuntu&labelColor=0D1117&logoColor=f7873b" alt="ubuntu"></a>
+<a href="https://www.docker.com/"><img src="https://img.shields.io/badge/docker-2496ED.svg?style=for-the-badge&logo=docker&labelColor=0D1117&logoColor=2496ED" alt="docker"></a>
 </p><br>
 
 <p align="center">
