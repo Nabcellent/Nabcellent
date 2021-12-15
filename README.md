@@ -47,14 +47,15 @@ class About extends Me {
 
 <hr>
 
-<h4 align="center">Top languages :fire:</h4>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nabcellent&langs_count=7&layout=compact&theme=shades-of-purple" alt="Nabcellent :: Top Langs" /></p>
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nabcellent&langs_count=7&layout=compact&theme=gotham" alt="Nabcellent :: Top Langs" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=nabcellent&repo=laravel-kyanda&theme=radical" alt="Nabcellent :: Trending Repo" />
+</div>
 
-<h4 align="center">Trending Repo 📈</h4>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/pin/?username=nabcellent&repo=laravel-kyanda&theme=radical" alt="Nabcellent :: Trending Repo" /></p>
-
-<h4 align="center">Profile stats :musical_keyboard:</h4>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=nabcellent&show_icons=true&theme=radical" alt="Nabcellent :: Profile Stats" /></p>
+<div align="center">
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=nabcellent&theme=gotham&hide_border=true"  alt=""/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nabcellent&show_icons=true&cache_seconds=86400&theme=gotham" alt=""/> 
+</div>
 
 <hr>
 <p align="center">
