@@ -18,13 +18,14 @@ namespace Nabcellent;
 class About extends Me {
     public function getPersonal() {
         return [
-            'personal_info' => [
+            'basic' => [
                 'name' => 'Michael Nabangi',
                 'email' => 'nabcellent.dev@gmail.com',
                 'phone' => '+254 110039317',
+            ],
+            'extra' => [
                 'company' => 'Self',
                 'position' => 'Full Stack Web Developer',
-                'Page' => [GitHub Pages](https://pages.github.com/).
             ]
         ];
     }
