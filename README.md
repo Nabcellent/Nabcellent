@@ -24,6 +24,7 @@ class About extends Me {
                 'phone' => '+254 110039317',
                 'company' => 'Self',
                 'position' => 'Full Stack Web Developer',
+                'Page' => [GitHub Pages](https://pages.github.com/).
             ]
         ];
     }
