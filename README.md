@@ -49,7 +49,6 @@ class About extends Me {
 
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nabcellent&langs_count=7&layout=compact&theme=gotham" alt="Nabcellent :: Top Langs" />
-<img height="140em" src="https://github-readme-stats.vercel.app/api/pin/?username=nabcellent&repo=laravel-kyanda&theme=radical" alt="Nabcellent :: Trending Repo" />
 </div>
 
 <div align="center">
