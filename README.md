@@ -38,8 +38,6 @@ class About extends Me {
             JavaScript::class,
             React::class,
             Node::class,
-            MUI::class,
-            Bootstrap::class,
         ];
     }
 }
@@ -83,6 +81,7 @@ class About extends Me {
 <p align="center">
 <a href="https://ubuntu.com/"><img src="https://img.shields.io/badge/ubuntu-f7873b.svg?style=for-the-badge&logo=ubuntu&labelColor=0D1117&logoColor=f7873b" alt="ubuntu"></a>
 <a href="https://www.docker.com/"><img src="https://img.shields.io/badge/docker-2496ED.svg?style=for-the-badge&logo=docker&labelColor=0D1117&logoColor=2496ED" alt="docker"></a>
+<a href="https://kubernetes.io/"><img src="https://img.shields.io/badge/kubernetes-316CE6.svg?style=for-the-badge&logo=kubernetes&labelColor=0D1117&logoColor=316CE6" alt="docker"></a>
 </p><br>
 
 <p align="center">
