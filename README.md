@@ -21,11 +21,11 @@ class About extends Me {
             'basic' => [
                 'name' => 'Michael Nabangi',
                 'email' => 'nabcellent.dev@gmail.com',
-                'phone' => '+254 110039317',
+                'phone' => '+254-110039317',
             ],
             'extra' => [
                 'company' => 'Self',
-                'position' => 'Full Stack Web Developer',
+                'position' => 'Full Stack Software Developer.',
             ]
         ];
     }
@@ -61,9 +61,11 @@ class About extends Me {
 <hr>
 <p align="center">
 <a href="https://www.php.net/"><img src="https://img.shields.io/badge/PHP-6566ba.svg?style=for-the-badge&logo=php&logoColor=6566ba&labelColor=0D1117" alt="php"></a>
+<a href="https://laravel.com/"><img src="https://img.shields.io/badge/laravel-F24423.svg?style=for-the-badge&logo=laravel&logoColor=F24423&labelColor=0D1117" alt="laravel"></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://img.shields.io/badge/JS-f5f542.svg?style=for-the-badge&logo=javascript&logoColor=f5f542&labelColor=0D1117" alt="javascript"></a>
 <a href="https://www.typescriptlang.org/"><img src="https://img.shields.io/badge/TS-3178C6.svg?style=for-the-badge&logo=typescript&logoColor=3178C6&labelColor=0D1117" alt="typescript"></a>
-<a href="https://laravel.com/"><img src="https://img.shields.io/badge/laravel-F24423.svg?style=for-the-badge&logo=laravel&logoColor=F24423&labelColor=0D1117" alt="laravel"></a>
+<a href="https://reactjs.org/"><img src="https://img.shields.io/badge/node-43853D.svg?style=for-the-badge&logo=nodedotjs&logoColor=43853D&labelColor=0D1117" alt="react"></a>
+<a href="https://reactjs.org/"><img src="https://img.shields.io/badge/express-72BEFC.svg?style=for-the-badge&logo=express&logoColor=72BEFC&labelColor=0D1117" alt="react"></a>
 <a href="https://reactjs.org/"><img src="https://img.shields.io/badge/react-61DAFB.svg?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=0D1117" alt="react"></a>
 </p><br>
 
