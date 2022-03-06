@@ -25,7 +25,7 @@ class About extends Me {
             ],
             'extra' => [
                 'company' => 'Self',
-                'position' => 'Full Stack Software Developer.',
+                'position' => 'Software Developer.',
             ]
         ];
     }
