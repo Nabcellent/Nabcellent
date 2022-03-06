@@ -32,12 +32,10 @@ class About extends Me {
 
     public function getTools() {
         return [
-            MySql::class,
-            PHP::class,
-            Laravel::class,
-            JavaScript::class,
-            React::class,
-            Node::class,
+            MySql::class, MongoDB::class,
+            PHP::class, JavaScript::class,
+            Laravel::class, React::class,
+            Node::class, ReactNative::class
         ];
     }
 }
