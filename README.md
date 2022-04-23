@@ -65,35 +65,35 @@ class About extends Me {
 <a href="https://reactjs.org/"><img src="https://img.shields.io/badge/node-43853D.svg?style=for-the-badge&logo=nodedotjs&logoColor=43853D&labelColor=0D1117" alt="react"></a>
 <a href="https://reactjs.org/"><img src="https://img.shields.io/badge/express-72BEFC.svg?style=for-the-badge&logo=express&logoColor=72BEFC&labelColor=0D1117" alt="react"></a>
 <a href="https://reactjs.org/"><img src="https://img.shields.io/badge/react-61DAFB.svg?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=0D1117" alt="react"></a>
-</p><br>
+</p>
 
 <p align="center">
 <a href="https://www.jetbrains.com/webstorm/"><img src="https://img.shields.io/badge/webstorm-green.svg?style=for-the-badge&logo=webstorm&labelColor=0D1117&logoColor=green" alt="vscode"></a>
 <a href="https://www.jetbrains.com/phpstorm/"><img src="https://img.shields.io/badge/phpstorm-C470F1.svg?style=for-the-badge&logo=phpstorm&labelColor=0D1117&logoColor=purple" alt="vscode"></a>
 <a href="https://code.visualstudio.com/"><img src="https://img.shields.io/badge/vscode-blue.svg?style=for-the-badge&logo=visual-studio-code&labelColor=0D1117&logoColor=blue" alt="vscode"></a>
-</p><br>
+</p>
 
 <p align="center">
 <a href="https://www.mysql.com/"><img src="https://img.shields.io/badge/mysql-3aabe8.svg?style=for-the-badge&logo=mysql&logoColor=3aabe8&labelColor=0D1117" alt="mysql"></a>
 <a href="https://www.mongodb.com/"><img src="https://img.shields.io/badge/mongo_db-26624A.svg?style=for-the-badge&logo=mongodb&logoColor=26624A&labelColor=0D1117" alt="mysql"></a>
 <a href="https://www.sqlite.org/"><img src="https://img.shields.io/badge/sqlite-3aabe8.svg?style=for-the-badge&logo=sqlite&logoColor=3aabe8&labelColor=0D1117" alt="mysql"></a>
-</p><br>
+</p>
 
 <p align="center">
 <a href="https://ubuntu.com/"><img src="https://img.shields.io/badge/ubuntu-f7873b.svg?style=for-the-badge&logo=ubuntu&labelColor=0D1117&logoColor=f7873b" alt="ubuntu"></a>
 <a href="https://www.docker.com/"><img src="https://img.shields.io/badge/docker-2496ED.svg?style=for-the-badge&logo=docker&labelColor=0D1117&logoColor=2496ED" alt="docker"></a>
 <a href="https://kubernetes.io/"><img src="https://img.shields.io/badge/kubernetes-316CE6.svg?style=for-the-badge&logo=kubernetes&labelColor=0D1117&logoColor=316CE6" alt="docker"></a>
-</p><br>
+</p>
 
 <p align="center">
 <a href="https://yarnpkg.com/"><img src="https://img.shields.io/badge/yarn-2C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=2C8EBB&labelColor=0D1117" alt="git"></a>
 <a href="https://www.npmjs.com/"><img src="https://img.shields.io/badge/npm-CB3A37.svg?style=for-the-badge&logo=npm&logoColor=2C8EBB&labelColor=0D1117" alt="git"></a>
 <a href="https://getcomposer.org/"><img src="https://img.shields.io/badge/composer-204599.svg?style=for-the-badge&logo=composer&logoColor=2C8EBB&labelColor=0D1117" alt="git"></a>
-</p><br>
+</p>
 
 <p align="center">
 <a href="https://github.com/"><img src="https://img.shields.io/badge/github-black.svg?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" alt="github"></a>
-</p><br>
+</p>
 
 <hr>
 
