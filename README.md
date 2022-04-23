@@ -8,7 +8,7 @@
 [![Instagram](https://img.shields.io/badge/-Instagram-222222?style=flat-square&logo=instagram&link=https://www.linkedin.com/in/sudiptoghosh99/)](https://www.instagram.com/re.d_beard/)
 
 <div align="left">
-	<br><a href="https://app.daily.dev/lil_nabz"><img align="left" src="https://github.com/Nabcellent/Nabcellent/blob/main/devcard.svg" width="300" alt="Lil Nabz's Dev Card"/></a>
+	<a href="https://app.daily.dev/lil_nabz"><img align="left" src="https://github.com/Nabcellent/Nabcellent/blob/main/devcard.svg" width="300" alt="Lil Nabz's Dev Card"/></a>
 
 ```php
 <?php
@@ -20,7 +20,6 @@ class About extends Me {
         return [
             'basic' => [
                 'name' => 'Michael Nabangi',
-                'email' => 'nabcellent.dev@gmail.com',
                 'phone' => '+254-110039317',
             ],
             'extra' => [
@@ -32,10 +31,9 @@ class About extends Me {
 
     public function getTools() {
         return [
-            MySql::class,   MongoDB::class,
-            PHP::class,     JavaScript::class,
-            Laravel::class, React::class,
-            Node::class,    ReactNative::class
+            MySql::class,   MongoDB::class, JavaScript::class,
+            PHP::class,     Node::class,    TypeScript::class,
+            Laravel::class, React::class,   ReactNative::class
         ];
     }
 }
