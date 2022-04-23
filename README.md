@@ -8,7 +8,7 @@
 [![Instagram](https://img.shields.io/badge/-Instagram-222222?style=flat-square&logo=instagram&link=https://www.linkedin.com/in/sudiptoghosh99/)](https://www.instagram.com/re.d_beard/)
 
 <div align="left">
-	<a href="https://app.daily.dev/lil_nabz"><img align="left" src="https://github.com/Nabcellent/Nabcellent/blob/main/devcard.svg" width="300" alt="Lil Nabz's Dev Card"/></a>
+	<br><a href="https://app.daily.dev/lil_nabz"><img align="left" src="https://github.com/Nabcellent/Nabcellent/blob/main/devcard.svg" width="300" alt="Lil Nabz's Dev Card"/></a>
 
 ```php
 <?php
