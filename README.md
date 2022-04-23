@@ -97,7 +97,7 @@ class About extends Me {
 
 <p align="center">
     <strong>
-        <a href="https://skyline.github.com/Nabcellent/2021"><i>🔥 SKYLINE 🔥</i></a>
+        <a href="https://skyline.github.com/Nabcellent/2021"><i>~~~ 🔥 SKYLINE 🔥 ~~~</i></a>
     </strong>
 </p>
 
