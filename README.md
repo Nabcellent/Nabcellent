@@ -60,8 +60,8 @@ class About extends Me {
 <a href="https://laravel.com/"><img src="https://img.shields.io/badge/laravel-F24423.svg?style=for-the-badge&logo=laravel&logoColor=F24423&labelColor=0D1117" alt="laravel"></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://img.shields.io/badge/JS-f5f542.svg?style=for-the-badge&logo=javascript&logoColor=f5f542&labelColor=0D1117" alt="javascript"></a>
 <a href="https://www.typescriptlang.org/"><img src="https://img.shields.io/badge/TS-3178C6.svg?style=for-the-badge&logo=typescript&logoColor=3178C6&labelColor=0D1117" alt="typescript"></a>
-<a href="https://reactjs.org/"><img src="https://img.shields.io/badge/node-43853D.svg?style=for-the-badge&logo=nodedotjs&logoColor=43853D&labelColor=0D1117" alt="react"></a>
-<a href="https://reactjs.org/"><img src="https://img.shields.io/badge/express-72BEFC.svg?style=for-the-badge&logo=express&logoColor=72BEFC&labelColor=0D1117" alt="react"></a>
+<a href="https://nodejs.org/en/"><img src="https://img.shields.io/badge/node-43853D.svg?style=for-the-badge&logo=nodedotjs&logoColor=43853D&labelColor=0D1117" alt="node"></a>
+<a href="https://expressjs.com/"><img src="https://img.shields.io/badge/express-72BEFC.svg?style=for-the-badge&logo=express&logoColor=72BEFC&labelColor=0D1117" alt="express"></a>
 <a href="https://reactjs.org/"><img src="https://img.shields.io/badge/react-61DAFB.svg?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=0D1117" alt="react"></a>
 </p>
 
@@ -75,6 +75,7 @@ class About extends Me {
 <a href="https://www.mysql.com/"><img src="https://img.shields.io/badge/mysql-3aabe8.svg?style=for-the-badge&logo=mysql&logoColor=3aabe8&labelColor=0D1117" alt="mysql"></a>
 <a href="https://www.mongodb.com/"><img src="https://img.shields.io/badge/mongo_db-26624A.svg?style=for-the-badge&logo=mongodb&logoColor=26624A&labelColor=0D1117" alt="mysql"></a>
 <a href="https://www.sqlite.org/"><img src="https://img.shields.io/badge/sqlite-3aabe8.svg?style=for-the-badge&logo=sqlite&logoColor=3aabe8&labelColor=0D1117" alt="mysql"></a>
+<a href="https://firebase.google.com/"><img src="https://img.shields.io/badge/firebase-F8972D.svg?style=for-the-badge&logo=firebase&logoColor=F8972D&labelColor=0D1117" alt="mysql"></a>
 </p>
 
 <p align="center">
