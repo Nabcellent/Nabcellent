@@ -29,7 +29,7 @@ class About extends Me {
     public function getTools() {
         return [
             MySql::class,   MongoDB::class, JavaScript::class,
-            PHP::class,     Node::class,    TypeScript::class,
+            PHP::class,     Golang::class,  TypeScript::class,
             Laravel::class, React::class,   ReactNative::class
         ];
     }
@@ -53,10 +53,14 @@ class About extends Me {
 
 <hr>
 <p align="center">
-<a href="https://www.php.net/"><img src="https://img.shields.io/badge/PHP-6566ba.svg?style=for-the-badge&logo=php&logoColor=6566ba&labelColor=0D1117" alt="php"></a>
+<a href="https://www.mysql.com/"><img src="https://img.shields.io/badge/mysql-3aabe8.svg?style=for-the-badge&logo=mysql&logoColor=3aabe8&labelColor=0D1117" alt="mysql"></a>
+<a href="https://www.mongodb.com/"><img src="https://img.shields.io/badge/mongo_db-26624A.svg?style=for-the-badge&logo=mongodb&logoColor=26624A&labelColor=0D1117" alt="mysql"></a>
+<a href="https://www.sqlite.org/"><img src="https://img.shields.io/badge/sqlite-3aabe8.svg?style=for-the-badge&logo=sqlite&logoColor=3aabe8&labelColor=0D1117" alt="mysql"></a>
+<a href="https://firebase.google.com/"><img src="https://img.shields.io/badge/firebase-F8972D.svg?style=for-the-badge&logo=firebase&logoColor=F8972D&labelColor=0D1117" alt="mysql"></a>
+</p>
+
+<p align="center">
 <a href="https://laravel.com/"><img src="https://img.shields.io/badge/laravel-F24423.svg?style=for-the-badge&logo=laravel&logoColor=F24423&labelColor=0D1117" alt="laravel"></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://img.shields.io/badge/JS-f5f542.svg?style=for-the-badge&logo=javascript&logoColor=f5f542&labelColor=0D1117" alt="javascript"></a>
-<a href="https://www.typescriptlang.org/"><img src="https://img.shields.io/badge/TS-3178C6.svg?style=for-the-badge&logo=typescript&logoColor=3178C6&labelColor=0D1117" alt="typescript"></a>
 <a href="https://nodejs.org/en/"><img src="https://img.shields.io/badge/node-43853D.svg?style=for-the-badge&logo=nodedotjs&logoColor=43853D&labelColor=0D1117" alt="node"></a>
 <a href="https://expressjs.com/"><img src="https://img.shields.io/badge/express-72BEFC.svg?style=for-the-badge&logo=express&logoColor=72BEFC&labelColor=0D1117" alt="express"></a>
 <a href="https://reactjs.org/"><img src="https://img.shields.io/badge/react-61DAFB.svg?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=0D1117" alt="react"></a>
@@ -69,16 +73,16 @@ class About extends Me {
 </p>
 
 <p align="center">
-<a href="https://www.mysql.com/"><img src="https://img.shields.io/badge/mysql-3aabe8.svg?style=for-the-badge&logo=mysql&logoColor=3aabe8&labelColor=0D1117" alt="mysql"></a>
-<a href="https://www.mongodb.com/"><img src="https://img.shields.io/badge/mongo_db-26624A.svg?style=for-the-badge&logo=mongodb&logoColor=26624A&labelColor=0D1117" alt="mysql"></a>
-<a href="https://www.sqlite.org/"><img src="https://img.shields.io/badge/sqlite-3aabe8.svg?style=for-the-badge&logo=sqlite&logoColor=3aabe8&labelColor=0D1117" alt="mysql"></a>
-<a href="https://firebase.google.com/"><img src="https://img.shields.io/badge/firebase-F8972D.svg?style=for-the-badge&logo=firebase&logoColor=F8972D&labelColor=0D1117" alt="mysql"></a>
-</p>
-
-<p align="center">
 <a href="https://ubuntu.com/"><img src="https://img.shields.io/badge/ubuntu-f7873b.svg?style=for-the-badge&logo=ubuntu&labelColor=0D1117&logoColor=f7873b" alt="ubuntu"></a>
 <a href="https://www.docker.com/"><img src="https://img.shields.io/badge/docker-2496ED.svg?style=for-the-badge&logo=docker&labelColor=0D1117&logoColor=2496ED" alt="docker"></a>
 <a href="https://kubernetes.io/"><img src="https://img.shields.io/badge/kubernetes-316CE6.svg?style=for-the-badge&logo=kubernetes&labelColor=0D1117&logoColor=316CE6" alt="docker"></a>
+</p>
+
+<p align="center">
+<a href="https://www.php.net/"><img src="https://img.shields.io/badge/PHP-6566ba.svg?style=for-the-badge&logo=php&logoColor=6566ba&labelColor=0D1117" alt="php"></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://img.shields.io/badge/JS-f5f542.svg?style=for-the-badge&logo=javascript&logoColor=f5f542&labelColor=0D1117" alt="javascript"></a>
+<a href="https://www.typescriptlang.org/"><img src="https://img.shields.io/badge/TS-3178C6.svg?style=for-the-badge&logo=typescript&logoColor=3178C6&labelColor=0D1117" alt="typescript"></a>
+<a href="https://go.dev/"><img src="https://img.shields.io/badge/Golang-1E7D9C.svg?style=for-the-badge&logo=go&logoColor=1E7D9C&labelColor=0D1117" alt="golang"></a>
 </p>
 
 <p align="center">
