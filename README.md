@@ -83,7 +83,7 @@ class About extends Me {
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://img.shields.io/badge/JS-f5f542.svg?style=for-the-badge&logo=javascript&logoColor=f5f542&labelColor=0D1117" alt="javascript"></a>
 <a href="https://www.typescriptlang.org/"><img src="https://img.shields.io/badge/TS-3178C6.svg?style=for-the-badge&logo=typescript&logoColor=3178C6&labelColor=0D1117" alt="typescript"></a>
 <a href="https://go.dev/"><img src="https://img.shields.io/badge/Golang-1E7D9C.svg?style=for-the-badge&logo=go&logoColor=1E7D9C&labelColor=0D1117" alt="golang"></a>
-<a href="https://www.java.com/en/"><img src="https://img.shields.io/badge/Java-1E7D9C.svg?style=for-the-badge&logo=oracle&logoColor=1E7D9C&labelColor=0D1117" alt="golang"></a>
+<a href="https://www.java.com/en/"><img src="https://img.shields.io/badge/Java-3A5C68.svg?style=for-the-badge&logo=oracle&logoColor=3A5C68&labelColor=0D1117" alt="golang"></a>
 </p>
 
 <p align="center">
