@@ -21,7 +21,7 @@ class About extends Me {
             'basic' => [
                 'name' => 'Michael Nabangi',
                 'phone' => '+254-110039317',
-		'role' => 'Software Developer.'
+		        'role' => 'Software Developer.'
             ],
         ];
     }
