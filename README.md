@@ -64,6 +64,7 @@ class About extends Me {
 <a href="https://nodejs.org/en/"><img src="https://img.shields.io/badge/node-43853D.svg?style=for-the-badge&logo=nodedotjs&logoColor=43853D&labelColor=0D1117" alt="node"></a>
 <a href="https://expressjs.com/"><img src="https://img.shields.io/badge/express-72BEFC.svg?style=for-the-badge&logo=express&logoColor=72BEFC&labelColor=0D1117" alt="express"></a>
 <a href="https://reactjs.org/"><img src="https://img.shields.io/badge/react-61DAFB.svg?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=0D1117" alt="react"></a>
+<a href="https://vuejs.org/"><img src="https://img.shields.io/badge/vue-33A06F.svg?style=for-the-badge&logo=vue.js&logoColor=33A06F&labelColor=0D1117" alt="react"></a>
 </p>
 
 <p align="center">
