@@ -21,14 +21,14 @@ class About extends Me {
             'basic' => [
                 'name' => 'Michael Nabangi',
                 'phone' => '+254-110039317',
-		        'role' => 'Software Developer.'
+		'role' => 'Software Developer.'
             ],
         ];
     }
 
     public function getTools() {
         return [
-            MySql::class,   Vue::class, JavaScript::class,
+            MySql::class,   MongoDB::class, JavaScript::class,
             PHP::class,     Golang::class,  TypeScript::class,
             Laravel::class, React::class,   ReactNative::class
         ];
