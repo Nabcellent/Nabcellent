@@ -28,7 +28,7 @@ class About extends Me {
 
     public function getTools() {
         return [
-            MySql::class,   MongoDB::class, JavaScript::class,
+            MySql::class,   Vue::class, JavaScript::class,
             PHP::class,     Golang::class,  TypeScript::class,
             Laravel::class, React::class,   ReactNative::class
         ];
