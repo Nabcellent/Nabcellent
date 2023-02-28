@@ -3,8 +3,8 @@
 
 <img align="right" src="https://komarev.com/ghpvc/?username=nabcellent" alt="Nabcellent" />
 
-[![Twitter](https://img.shields.io/badge/-Twitter-222222?style=flat-square&logo=twitter&link=https://twitter.com/ScientificGhosh/)](https://twitter.com/Miguel27650847/)
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-222222?style=flat-square&logo=Linkedin&link=https://www.linkedin.com/in/sudiptoghosh99/)](https://www.linkedin.com/in/michael-nabangi-05602b203/)
+[![Twitter](https://img.shields.io/badge/-Twitter-222222?style=flat-square&logo=twitter&link=https://twitter.com/ScientificGhosh/)](https://twitter.com/nabcellent/)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-222222?style=flat-square&logo=Linkedin&link=https://www.linkedin.com/in/sudiptoghosh99/)](https://www.linkedin.com/in/nabcellent/)
 [![Instagram](https://img.shields.io/badge/-Instagram-222222?style=flat-square&logo=instagram&link=https://www.linkedin.com/in/sudiptoghosh99/)](https://www.instagram.com/re.d_beard/)
 
 <div align="left">
