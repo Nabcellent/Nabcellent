@@ -16,7 +16,7 @@
 namespace Nabcellent;
 
 class About extends Me {
-    public function getPersonal() {
+    public function getPersonal(): array {
         return [
             'basic' => [
                 'name' => 'Michael Nabangi',
@@ -26,7 +26,7 @@ class About extends Me {
         ];
     }
 
-    public function getTools() {
+    public function getTools(): array {
         return [
             MySql::class,   Vue::class, JavaScript::class,
             PHP::class,     Golang::class,  TypeScript::class,
