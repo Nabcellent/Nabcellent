@@ -41,14 +41,14 @@ class About extends Me {
 <hr>
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nabcellent&langs_count=8&layout=compact&theme=gotham" alt="Nabcellent :: Top Langs" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nabcellent&langs_count=8&layout=compact&theme=yeblu&hide_border=true" alt="Nabcellent :: Top Langs" />
 
 [comment]: <> (<img height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=nabcellent&repo=laravel-kyanda&theme=radical" alt="Nabcellent :: Trending Repo" />)
 </div>
 
 <div align="center">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=nabcellent&theme=gotham&hide_border=true"  alt=""/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nabcellent&show_icons=true&cache_seconds=86400&theme=gotham" alt=""/> 
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=nabcellent&theme=yeblu&hide_border=true"  alt=""/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nabcellent&show_icons=true&cache_seconds=86400&theme=yeblu&hide_border=true" alt=""/> 
 </div>
 
 <hr>
