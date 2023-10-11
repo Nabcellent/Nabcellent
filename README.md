@@ -21,16 +21,17 @@ class About extends Me {
             'basic' => [
                 'name' => 'Michael Nabangi',
                 'phone' => '+254-110039317',
-		'role' => 'Software Developer.'
+		        'role' => 'Software Engineer.'
             ],
         ];
     }
 
     public function getTools(): array {
         return [
-            MySql::class,   Vue::class, JavaScript::class,
-            PHP::class,     Golang::class,  TypeScript::class,
-            Laravel::class, React::class,   ReactNative::class
+            MySql::class,   Firebase::class,    Laravel::class,
+            NodeJs::class,  TypeScript::class,  React::class,  
+            Golang::class,  Vue::class,         ReactNative::class,
+            FastApi::class, AlpineJs::class,    Tailwind::class
         ];
     }
 }
@@ -53,50 +54,58 @@ class About extends Me {
 
 <hr>
 <p align="center">
-<a href="https://laravel.com/"><img src="https://img.shields.io/badge/laravel-F24423.svg?style=flat-square&logo=laravel&logoColor=F24423&labelColor=0D1117" alt="laravel"></a>
-<a href="https://nodejs.org/en/"><img src="https://img.shields.io/badge/node-43853D.svg?style=flat-square&logo=nodedotjs&logoColor=43853D&labelColor=0D1117" alt="node"></a>
-<a href="https://expressjs.com/"><img src="https://img.shields.io/badge/express-72BEFC.svg?style=flat-square&logo=express&logoColor=72BEFC&labelColor=0D1117" alt="express"></a>
-<a href="https://reactjs.org/"><img src="https://img.shields.io/badge/react-61DAFB.svg?style=flat-square&logo=react&logoColor=61DAFB&labelColor=0D1117" alt="react"></a>
-<a href="https://vuejs.org/"><img src="https://img.shields.io/badge/vue-33A06F.svg?style=flat-square&logo=vue.js&logoColor=33A06F&labelColor=0D1117" alt="react"></a>
-<a href="https://reactnative.dev"><img src="https://img.shields.io/badge/react native-61DAFB.svg?style=flat-square&logo=react&logoColor=61DAFB&labelColor=0D1117" alt="react-native"></a>
+<a href="https://tailwindcss.com"><img src="https://img.shields.io/badge/Tailwind-38BDF8.svg?style=flat-square&logo=tailwindcss&logoColor=38BDF8&labelColor=0D1117" alt="tailwind"></a>
+<a href="https://getbootstrap.com/"><img src="https://img.shields.io/badge/Bootstrap-7C6DFA.svg?style=flat-square&logo=bootstrap&logoColor=7C6DFA&labelColor=0D1117" alt="bootstrap"></a>
+</p>
+<p align="center">
+<a href="https://laravel.com"><img src="https://img.shields.io/badge/Laravel-F24423.svg?style=flat-square&logo=laravel&logoColor=F24423&labelColor=0D1117" alt="laravel"></a>
+<a href="https://nodejs.org/en"><img src="https://img.shields.io/badge/NodeJs-43853D.svg?style=flat-square&logo=nodedotjs&logoColor=43853D&labelColor=0D1117" alt="node"></a>
+<a href="https://expressjs.com"><img src="https://img.shields.io/badge/ExpressJs-72BEFC.svg?style=flat-square&logo=express&logoColor=72BEFC&labelColor=0D1117" alt="express"></a>
+<a href="https://reactjs.org"><img src="https://img.shields.io/badge/ReactJs-61DAFB.svg?style=flat-square&logo=react&logoColor=61DAFB&labelColor=0D1117" alt="react"></a>
+<a href="https://vuejs.org"><img src="https://img.shields.io/badge/Vue.Js-33A06F.svg?style=flat-square&logo=vue.js&logoColor=33A06F&labelColor=0D1117" alt="vue"></a>
+<a href="https://reactnative.dev"><img src="https://img.shields.io/badge/React_Native-61DAFB.svg?style=flat-square&logo=react&logoColor=61DAFB&labelColor=0D1117" alt="react-native"></a>
+<a href="https://alpinejs.dev"><img src="https://img.shields.io/badge/Alpine.js-77C1D2.svg?style=flat-square&logo=alpine.js&logoColor=61DAFB&labelColor=0D1117" alt="alpine js"></a>
 </p>
 
 <p align="center">
-<a href="https://www.mysql.com/"><img src="https://img.shields.io/badge/mysql-3aabe8.svg?style=flat-square&logo=mysql&logoColor=3aabe8&labelColor=0D1117" alt="mysql"></a>
-<a href="https://www.mongodb.com/"><img src="https://img.shields.io/badge/mongo_db-26624A.svg?style=flat-square&logo=mongodb&logoColor=26624A&labelColor=0D1117" alt="mysql"></a>
-<a href="https://www.sqlite.org/"><img src="https://img.shields.io/badge/sqlite-3aabe8.svg?style=flat-square&logo=sqlite&logoColor=3aabe8&labelColor=0D1117" alt="mysql"></a>
-<a href="https://firebase.google.com/"><img src="https://img.shields.io/badge/firebase-F8972D.svg?style=flat-square&logo=firebase&logoColor=F8972D&labelColor=0D1117" alt="mysql"></a>
+<a href="https://www.mysql.com/"><img src="https://img.shields.io/badge/MySQL-3aabe8.svg?style=flat-square&logo=mysql&logoColor=3aabe8&labelColor=0D1117" alt="mysql"></a>
+<a href="https://www.mongodb.com/"><img src="https://img.shields.io/badge/Mongo_DB-26624A.svg?style=flat-square&logo=mongodb&logoColor=26624A&labelColor=0D1117" alt="mysql"></a>
+<a href="https://www.sqlite.org/"><img src="https://img.shields.io/badge/SQLite-3aabe8.svg?style=flat-square&logo=sqlite&logoColor=3aabe8&labelColor=0D1117" alt="mysql"></a>
+<a href="https://firebase.google.com/"><img src="https://img.shields.io/badge/Firebase-F8972D.svg?style=flat-square&logo=firebase&logoColor=F8972D&labelColor=0D1117" alt="mysql"></a>
 </p>
 
 <p align="center">
-<a href="https://www.php.net/"><img src="https://img.shields.io/badge/PHP-6566ba.svg?style=flat-square&logo=php&logoColor=6566ba&labelColor=0D1117" alt="php"></a>
+<a href="https://www.php.net"><img src="https://img.shields.io/badge/PHP-6566ba.svg?style=flat-square&logo=php&logoColor=6566ba&labelColor=0D1117" alt="php"></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://img.shields.io/badge/JS-f5f542.svg?style=flat-square&logo=javascript&logoColor=f5f542&labelColor=0D1117" alt="javascript"></a>
-<a href="https://www.typescriptlang.org/"><img src="https://img.shields.io/badge/TS-3178C6.svg?style=flat-square&logo=typescript&logoColor=3178C6&labelColor=0D1117" alt="typescript"></a>
-<a href="https://go.dev/"><img src="https://img.shields.io/badge/Golang-1E7D9C.svg?style=flat-square&logo=go&logoColor=1E7D9C&labelColor=0D1117" alt="golang"></a>
-<a href="https://www.java.com/en/"><img src="https://img.shields.io/badge/Java-3A5C68.svg?style=flat-square&logo=oracle&logoColor=3A5C68&labelColor=0D1117" alt="golang"></a>
+<a href="https://www.typescriptlang.org"><img src="https://img.shields.io/badge/TS-3178C6.svg?style=flat-square&logo=typescript&logoColor=3178C6&labelColor=0D1117" alt="typescript"></a>
+<a href="https://www.python.org"><img src="https://img.shields.io/badge/Python-2C5B84.svg?style=flat-square&logo=python&logoColor=2C5B84&labelColor=0D1117" alt="golang"></a>
+<a href="https://go.dev"><img src="https://img.shields.io/badge/Golang-1E7D9C.svg?style=flat-square&logo=go&logoColor=1E7D9C&labelColor=0D1117" alt="golang"></a>
+<a href="https://www.java.com/en"><img src="https://img.shields.io/badge/Java-3A5C68.svg?style=flat-square&logo=oracle&logoColor=3A5C68&labelColor=0D1117" alt="golang"></a>
 </p>
 
 <p align="center">
-<a href="https://www.jetbrains.com/webstorm"><img src="https://img.shields.io/badge/webstorm-green.svg?style=flat-square&logo=webstorm&labelColor=0D1117&logoColor=green" alt="vscode"></a>
-<a href="https://www.jetbrains.com/phpstorm"><img src="https://img.shields.io/badge/phpstorm-C470F1.svg?style=flat-square&logo=phpstorm&labelColor=0D1117&logoColor=purple" alt="vscode"></a>
-<a href="https://www.jetbrains.com/go"><img src="https://img.shields.io/badge/goland-3BEA62.svg?style=flat-square&logo=goland&labelColor=0D1117&logoColor=3BEA62" alt="vscode"></a>
-<a href="https://code.visualstudio.com"><img src="https://img.shields.io/badge/vscode-blue.svg?style=flat-square&logo=visual-studio-code&labelColor=0D1117&logoColor=blue" alt="vscode"></a>
+<a href="https://www.jetbrains.com/webstorm"><img src="https://img.shields.io/badge/WebStorm-green.svg?style=flat-square&logo=webstorm&labelColor=0D1117&logoColor=green" alt="vscode"></a>
+<a href="https://www.jetbrains.com/phpstorm"><img src="https://img.shields.io/badge/PhpStorm-C470F1.svg?style=flat-square&logo=phpstorm&labelColor=0D1117&logoColor=purple" alt="vscode"></a>
+<a href="https://www.jetbrains.com/pycharm"><img src="https://img.shields.io/badge/PyCharm-B9EC5B.svg?style=flat-square&logo=pycharm&labelColor=0D1117&logoColor=B9EC5B" alt="vscode"></a>
+<a href="https://www.jetbrains.com/go"><img src="https://img.shields.io/badge/GoLand-3BEA62.svg?style=flat-square&logo=goland&labelColor=0D1117&logoColor=3BEA62" alt="vscode"></a>
+<a href="https://code.visualstudio.com"><img src="https://img.shields.io/badge/VS_Code-blue.svg?style=flat-square&logo=visual-studio-code&labelColor=0D1117&logoColor=blue" alt="vscode"></a>
 </p>
 
 <p align="center">
-<a href="https://ubuntu.com/"><img src="https://img.shields.io/badge/ubuntu-f7873b.svg?style=flat-square&logo=ubuntu&labelColor=0D1117&logoColor=f7873b" alt="ubuntu"></a>
-<a href="https://www.docker.com/"><img src="https://img.shields.io/badge/docker-2496ED.svg?style=flat-square&logo=docker&labelColor=0D1117&logoColor=2496ED" alt="docker"></a>
-<a href="https://kubernetes.io/"><img src="https://img.shields.io/badge/kubernetes-316CE6.svg?style=flat-square&logo=kubernetes&labelColor=0D1117&logoColor=316CE6" alt="docker"></a>
+<a href="https://ubuntu.com"><img src="https://img.shields.io/badge/Ubuntu-f7873b.svg?style=flat-square&logo=ubuntu&labelColor=0D1117&logoColor=f7873b" alt="ubuntu"></a>
+<a href="https://www.docker.com"><img src="https://img.shields.io/badge/Docker-2496ED.svg?style=flat-square&logo=docker&labelColor=0D1117&logoColor=2496ED" alt="docker"></a>
+<a href="https://console.cloud.google.com"><img src="https://img.shields.io/badge/GCP-FBBD33.svg?style=flat-square&logo=googlecloud&labelColor=0D1117&logoColor=4EA853" alt="docker"></a>
+<a href="https://kubernetes.io"><img src="https://img.shields.io/badge/Kubernetes-316CE6.svg?style=flat-square&logo=kubernetes&labelColor=0D1117&logoColor=316CE6" alt="docker"></a>
 </p>
 
 <p align="center">
-<a href="https://yarnpkg.com/"><img src="https://img.shields.io/badge/yarn-2C8EBB.svg?style=flat-square&logo=yarn&logoColor=2C8EBB&labelColor=0D1117" alt="git"></a>
-<a href="https://www.npmjs.com/"><img src="https://img.shields.io/badge/npm-CB3A37.svg?style=flat-square&logo=npm&logoColor=2C8EBB&labelColor=0D1117" alt="git"></a>
-<a href="https://getcomposer.org/"><img src="https://img.shields.io/badge/composer-204599.svg?style=flat-square&logo=composer&logoColor=2C8EBB&labelColor=0D1117" alt="git"></a>
+<a href="https://yarnpkg.com"><img src="https://img.shields.io/badge/Yarn-2C8EBB.svg?style=flat-square&logo=yarn&logoColor=2C8EBB&labelColor=0D1117" alt="git"></a>
+<a href="https://www.npmjs.com"><img src="https://img.shields.io/badge/NPM-CB3A37.svg?style=flat-square&logo=npm&logoColor=2C8EBB&labelColor=0D1117" alt="git"></a>
+<a href="https://getcomposer.org"><img src="https://img.shields.io/badge/Composer-204599.svg?style=flat-square&logo=composer&logoColor=2C8EBB&labelColor=0D1117" alt="git"></a>
 </p>
 
 <p align="center">
-<a href="https://github.com/"><img src="https://img.shields.io/badge/github-black.svg?style=flat-square&logo=github&logoColor=white&labelColor=0D1117" alt="github"></a>
+<a href="https://github.com"><img src="https://img.shields.io/badge/github-black.svg?style=flat-square&logo=github&logoColor=white&labelColor=0D1117" alt="github"></a>
 </p>
 
 <hr>
